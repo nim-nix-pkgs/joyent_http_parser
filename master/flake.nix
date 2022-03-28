@@ -11,7 +11,6 @@
   inputs.src-joyent_http_parser-master.ref   = "refs/heads/master";
   inputs.src-joyent_http_parser-master.owner = "nim-lang";
   inputs.src-joyent_http_parser-master.repo  = "joyent_http_parser";
-  inputs.src-joyent_http_parser-master.dir   = "";
   inputs.src-joyent_http_parser-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
