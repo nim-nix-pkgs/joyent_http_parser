@@ -7,37 +7,8 @@
   "license": "MIT",
   "web": "https://github.com/nim-lang/joyent_http_parser",
   "refs": [
-    "refs/heads/master",
+    "fatal: unable to access 'https://github.com/nim-lang/joyent_http_parser/': Could not resolve host: github.com",
     ""
   ],
-  "heads": [
-    {
-      "name": "joyent_http_parser",
-      "version": "0.1.0",
-      "author": "Zahary Karadjov",
-      "desc": "Joyent's high performance parser.",
-      "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.17.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.17.2"
-          }
-        }
-      ],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/heads/master"
-    }
-  ]
+  "heads": []
 }
